@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Orange_labs">
+    <test thread-count="5" name="test1">
+
+        <classes>
+            <class name="com.OrangeLabs.testcases.Config"></class>
+            <class name="com.OrangeLabs.testcases.HomePageTest"></class>
+            <class name="com.OrangeLabs.testcases.AppPageTest"></class>
+            <class name="com.OrangeLabs.testcases.EducationPageTest"></class>
+            <class name="com.OrangeLabs.testcases.TedPageTest"></class>
+
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- OrangeLabs -->
