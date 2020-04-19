@@ -2,11 +2,11 @@
 
 # Google_Play_Test_Automation
 
-### A Test Automation Script that automate the search for a specific application on Google play; the test scenario steps is traced by  a report.
+### A Test Automation Framework that automate the search for a specific application on Google play; the test scenario steps is traced by  a report.
 
-It is a fully automated script the completly automates the process of Searching for a an app on the goole play store , and validating the use of some functionalties 
+It is a fully automated framework the completly automates the process of Searching for a an app on the goole play store , and validating the use of some functionalties 
 
-## what does the script do
+## what does the framework do
 
 Automation testing for searching for an app (TED APP) on  ("https://play.google.com/store")
 
