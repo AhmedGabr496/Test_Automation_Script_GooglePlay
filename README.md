@@ -1,6 +1,6 @@
 # Orange Labs Web Automation Task
 
-# Google_Play_Test_Automation_Script
+# Google_Play_Test_Automation
 
 ### A Test Automation Script that automate the search for a specific application on Google play; the test scenario steps is traced by  a report.
 
@@ -75,7 +75,7 @@ mvn test
 
 - Screen Shots
 
--Video Records
+- Video Records
 
 ## Reports Results Samples
 
