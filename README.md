@@ -8,7 +8,7 @@ It is a fully automated framework the completly automates the process of Searchi
 
 ## what does the framework do
 
-Automation testing for searching for an app (TED APP) on  ("https://play.google.com/store")
+test automation for searching for an app (TED APP) on  ("https://play.google.com/store")
 
 1-Open Google play website , Assert That the url navigated to the correct website..
 
