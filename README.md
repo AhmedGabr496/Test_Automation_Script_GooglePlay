@@ -4,7 +4,7 @@
 
 ### A Test Automation Framework that automate the search for a specific application on Google play; the test scenario steps is traced by  a report.
 
-It is a fully automated framework the completly automates the process of Searching for a an app on the goole play store , and validating the use of some functionalties 
+It is a test framework that completly automates the process of Searching for a an app on the goole play store , and validating the use of some functionalties 
 
 ## what does the framework do
 
