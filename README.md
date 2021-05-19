@@ -1,4 +1,3 @@
-# Orange Labs Web Automation Task
 
 # Google_Play_Test_Automation
 
